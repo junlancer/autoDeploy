@@ -2,7 +2,7 @@ package junlancer.sftp;
 
 public class ProjectConfig {
     /**
-     * 项目名称 sts
+     * 项目名称 proj1
      */
     private String pkg;
     /**
